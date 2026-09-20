@@ -7,6 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-    base: "/nexdev-portfolio/",
-
+base: "/",
 });
