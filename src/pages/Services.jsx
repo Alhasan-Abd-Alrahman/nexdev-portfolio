@@ -236,12 +236,12 @@ export default function Services() {
                 Start a Project
               </Link>
 
-              <Link
+              {/* <Link
                 to="/projects"
                 className="inline-flex items-center rounded-md border border-[#24344D] px-7 py-3.5 text-sm font-semibold text-[#B8C2D1] transition hover:border-[#168BFF] hover:text-[#168BFF]"
               >
                 View Our Projects
-              </Link>
+              </Link> */}
 
             </div>
 

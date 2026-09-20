@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 
 
-import Projects from "./pages/Projects";
+// import Projects from "./pages/Projects";
 import Services from "./pages/Services";
 import Team from "./pages/Team";
 import Contact from "./pages/Contact";
@@ -19,7 +19,7 @@ function App() {
 
         <Route path="/about" element={<About />} />
 
-        <Route path="/projects" element={<Projects />} />
+        {/* <Route path="/projects" element={<Projects />} /> */}
 
         <Route path="/services" element={<Services />} />
 
