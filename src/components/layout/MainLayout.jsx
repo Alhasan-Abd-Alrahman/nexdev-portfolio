@@ -5,7 +5,7 @@ function MainLayout({ children }) {
     <div className="min-h-screen">
       <Sidebar />
 
-      <main className="ml-[267px] min-w-0 bg-white">
+      <main className="ml-0 min-w-0 bg-white md:ml-[267px]">
         {children}
       </main>
     </div>
